@@ -1,5 +1,5 @@
-0x00-Webpack/node_modules
+./node_modules
 dist/main.js
-0x00-Webpack/task_1/node_modules
-0x00-Webpack/task_2/node_modules
-0x00-Webpack/task_3/node_modules
+./task_1/node_modules
+./task_2/node_modules
+./task_3/node_modules
