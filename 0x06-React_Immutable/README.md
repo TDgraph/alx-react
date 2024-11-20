@@ -9,4 +9,4 @@ Learning outcomes:
 - How to use the Immutable.js library to bring immutability to Javascript
 - The differences between List and Map
 - How to use Merge, Concat, and Deep Merging
-- What a lazy Seq is
+- What a lazy Seq is and how it works.
